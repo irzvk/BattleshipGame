@@ -1,0 +1,14 @@
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\bin\Debug\net8.0\BattleshipGame.exe
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\bin\Debug\net8.0\BattleshipGame.deps.json
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\bin\Debug\net8.0\BattleshipGame.runtimeconfig.json
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\bin\Debug\net8.0\BattleshipGame.dll
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\bin\Debug\net8.0\BattleshipGame.pdb
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\obj\Debug\net8.0\BattleshipGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\obj\Debug\net8.0\BattleshipGame.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\obj\Debug\net8.0\BattleshipGame.AssemblyInfo.cs
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\obj\Debug\net8.0\BattleshipGame.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\obj\Debug\net8.0\BattleshipGame.dll
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\obj\Debug\net8.0\refint\BattleshipGame.dll
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\obj\Debug\net8.0\BattleshipGame.pdb
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\obj\Debug\net8.0\BattleshipGame.genruntimeconfig.cache
+C:\Users\karol\Documents\Szkoła\Zawodowe\OOP\C#\BattleshipGame\obj\Debug\net8.0\ref\BattleshipGame.dll
